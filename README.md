@@ -5,7 +5,7 @@
 **Universidad:** Universidad Nacional del Centro del Peru (UNCP) - Facultad de Economia
 **Curso:** R Studio - Proyecto Final
 
-**Repositorio:** *(reemplazar con el link de tu repositorio, ej. https://github.com/TU-USUARIO/Proyecto_Final)*
+**Repositorio:** *(https://github.com/fabrizzioalemartica-svg/Proyecto_Final_R)*
 
 ---
 
