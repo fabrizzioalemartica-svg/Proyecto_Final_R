@@ -199,7 +199,7 @@ El mapa fue construido con el paquete `sf` y un archivo GeoJSON de los limites d
 
 ## Publicacion en redes sociales
 
-Se publico en LinkedIn/X el hallazgo principal de la Parte 2 (grafico `grafico_final_brecha_urbano_rural.png`), acompanado de una breve explicacion del hallazgo. *(captura_de_la_publicación.png)*
+Se publico en LinkedIn/X el hallazgo principal de la Parte 2 (grafico `grafico_final_brecha_urbano_rural.png`), acompanado de una breve explicacion del hallazgo. *(`captura_de_la_publicación.png`)*
 
 ---
 
